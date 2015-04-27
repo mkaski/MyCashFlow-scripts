@@ -1,5 +1,7 @@
 # MyCashFlow-scripts
 
+Saa käyttää, mut ei oo pakko.
+
 ##Tuoteryhmät hakutuloksiin MyCashFlow'n haussa
 
 Laita scripti products.html -sivupohjaan ja lisää seuraavat html-tagit:
