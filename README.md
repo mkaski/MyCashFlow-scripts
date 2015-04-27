@@ -3,6 +3,7 @@
 Saa käyttää, mut ei oo pakko.
 
 ##Tuoteryhmät hakutuloksiin MyCashFlow'n haussa
+categoriesToSearch.js
 
 Laita scripti products.html -sivupohjaan ja lisää seuraavat html-tagit:
 ```
@@ -14,6 +15,7 @@ Vaihda scriptin store-muuttujan arvoksi kaupan osoite.
 
 
 ##MyCashFlow Viimeksi katsotut tuotteet
+lastViewedProducts.js
 
 Tuotesivun sivupohjasta tulee löytyä #productpage -ID:llä varustettu elementti (esim. body)
 
